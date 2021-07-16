@@ -1,3 +1,0 @@
-pip install pipreqs
-#localize a pasta raiz
-pipreqs --force .
